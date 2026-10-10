@@ -7,7 +7,7 @@ from pathlib import Path
 import shutil
 
 print("FILE ORGANIZER")
-print("-----------------------")
+print("------------------------")
 
 file_folders = {
     # Images

@@ -5,6 +5,5 @@ A simple Python script that organizes files into folders based on their file typ
 ## How to run
 
 1. Open a terminal in the project folder.
-2. Run:
-
-python file_organizer.py
+2. Select correct folder path.
+3. Run: python file_organizer.py
